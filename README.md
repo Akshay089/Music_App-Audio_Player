@@ -1,3 +1,4 @@
+![Playlist Screen](app/src/playlist.png)
 # 🎵 MusicApp
 
 **MusicApp** is a simple yet powerful Android music player application developed in **Java** using **Android Studio**. It allows users to play locally stored audio files with a clean and intuitive user interface, providing essential media controls for an enjoyable listening experience.
@@ -23,15 +24,6 @@
 
 - 🎼 **Track Metadata Display**  
   Displays song title, artist, and album art (where available).
-
----
-
-## 📱 Screenshots
-
-![Playlist Screen](app/src/playlist.png)
-
-_(Add more screenshots here as needed)_
-
 ---
 
 ## 🛠️ Built With
@@ -39,7 +31,6 @@ _(Add more screenshots here as needed)_
 - ✅ **Android Studio** – IDE for Android development  
 - ✅ **Java** – Programming language  
 - ✅ **XML** – UI layout design  
-- ✅ **MediaPlayer API** – Android native media playback functionality  
 
 ---
 
@@ -54,4 +45,4 @@ _(Add more screenshots here as needed)_
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/MusicApp.git
+   git clone https://github.com/Akshay089/MusicApp.git
