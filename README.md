@@ -1,36 +1,39 @@
 ![Playlist Screen](app/src/playlist.png)
+
 # 🎵 MusicApp
 
-**MusicApp** is a simple yet powerful Android music player application developed in **Java** using **Android Studio**. It allows users to play locally stored audio files with a clean and intuitive user interface, providing essential media controls for an enjoyable listening experience.
+**MusicApp** is a simple yet powerful Android music player application developed in **Java** using **Android Studio**.  
+It enables users to play locally stored audio files through a clean and intuitive user interface, offering essential media controls for a smooth and enjoyable listening experience.
 
 ---
 
 ## 🚀 Features
 
 - 🎧 **Play Local Audio Files**  
-  Easily browse and play audio tracks stored on your device.
+  Browse and play audio tracks stored directly on your device.
 
 - ⏯️ **Media Controls**  
-  Play, pause, skip to next, and return to previous tracks with smooth controls.
+  Play, pause, skip to next, or return to previous tracks effortlessly.
 
 - 📊 **SeekBar Support**  
-  Seek through the track to jump to any specific time position.
+  Scrub through tracks to jump to any desired position in real-time.
 
-- 🎨 **Clean & Minimal User Interface**  
-  User-friendly design with an intuitive layout, focused on simplicity and ease of use.
+- 🎨 **Clean & Minimal UI**  
+  Focused on simplicity and user-friendly design for seamless interaction.
 
 - 🔊 **Background Playback**  
-  Continue listening to music even when the app is minimized or the screen is off.
+  Enjoy uninterrupted music even when the app runs in the background or the screen is off.
 
 - 🎼 **Track Metadata Display**  
-  Displays song title, artist, and album art (where available).
+  Automatically display track title, artist name, and album art where available.
+
 ---
 
 ## 🛠️ Built With
 
-- ✅ **Android Studio** – IDE for Android development  
-- ✅ **Java** – Programming language  
-- ✅ **XML** – UI layout design  
+- ✅ **Android Studio** – Industry-standard IDE for Android app development  
+- ✅ **Java** – Robust programming language for native Android apps  
+- ✅ **XML** – Declarative UI design and layouts  
 
 ---
 
@@ -38,10 +41,10 @@
 
 ### Prerequisites
 
-- Android Studio installed  
-- Android device or emulator running Android 5.0 (Lollipop) or above
+- **Android Studio** installed  
+- Android device or emulator running **Android 5.0 (Lollipop)** or higher  
 
-### Installation
+### Installation Steps
 
 1. Clone the repository  
    ```bash
