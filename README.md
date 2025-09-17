@@ -1,8 +1,10 @@
+<p align="center">
 ![Playlist Screen](app/src/playlist.png)
 
-# 🎵 MusicApp
+# 🎵 MyMusic
+</p>
 
-**MusicApp** is a simple yet powerful Android music player application developed in **Java** using **Android Studio**.  
+**MyMusic** is a simple yet powerful Android music player application developed in **Java** using **Android Studio**.  
 It enables users to play locally stored audio files through a clean and intuitive user interface, offering essential media controls for a smooth and enjoyable listening experience.
 
 ---
